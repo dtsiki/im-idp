@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/im-idp/static/css/main.f855e6bc.css",
+    "main.js": "/im-idp/static/js/main.d0f45be4.js",
+    "static/js/453.ea3e8ec4.chunk.js": "/im-idp/static/js/453.ea3e8ec4.chunk.js",
+    "static/media/logo.svg": "/im-idp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/im-idp/index.html",
+    "main.f855e6bc.css.map": "/im-idp/static/css/main.f855e6bc.css.map",
+    "main.d0f45be4.js.map": "/im-idp/static/js/main.d0f45be4.js.map",
+    "453.ea3e8ec4.chunk.js.map": "/im-idp/static/js/453.ea3e8ec4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d0f45be4.js"
+  ]
+}
